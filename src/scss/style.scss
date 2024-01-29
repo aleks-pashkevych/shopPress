@@ -1,0 +1,18 @@
+body{
+    background-color: green;
+
+    }
+
+
+@media (max-width:768px) {
+    body{
+        line-height: 120%;
+    }
+}
+
+
+@media (max-width:768px) {
+    body{
+        font-family: "Sans-serif";
+    }
+}

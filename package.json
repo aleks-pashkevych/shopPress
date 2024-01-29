@@ -1,0 +1,50 @@
+{
+  "name": "shoppress",
+  "version": "1.0.0",
+  "description": "shop template for wordpress",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleks-pashkevych/shopPress.git"
+  },
+  "keywords": [
+    "shop",
+    "wordpress",
+    "template"
+  ],
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleks-pashkevych/shopPress/issues"
+  },
+  "homepage": "https://github.com/aleks-pashkevych/shopPress#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.2",
+    "del": "^7.1.0",
+    "fs": "^0.0.1-security",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-fonter": "^0.3.0",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-newer": "^1.4.0",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-ttf2woff2": "^4.0.1",
+    "gulp-version-number": "^0.2.4",
+    "gulp-webpcss": "^1.1.1",
+    "less": "^4.2.0",
+    "rimraf": "^5.0.5",
+    "sass": "^1.70.0",
+    "swiper": "^11.0.5",
+    "webpack": "^5.90.0",
+    "webpack-stream": "^7.0.0"
+  }
+}
